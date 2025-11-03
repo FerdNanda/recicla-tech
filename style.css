@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: aqua;
+  display: flex;
+  justify-content: flex-start;
+  justify-content: space-evenly;
+  height: 15vh;
+  align-items: center;
+}
+header h1 {
+  border: solid black;
+}
+header nav {
+  border: solid palevioletred;
+  display: flex;
+  justify-content: space-evenly;
+  width: 40%;
+}
+header a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: brown;
+}/*# sourceMappingURL=style.css.map */
